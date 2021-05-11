@@ -3,7 +3,7 @@ body{
 }
 .welcome{
     background: linear-gradient(180deg, yellow, green);
-    width: 110%;
+    width: 105%;
     height: 80%;
 }
 .line{
